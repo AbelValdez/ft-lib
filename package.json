@@ -1,0 +1,19 @@
+{
+  "name": "ft-lib",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbelValdez/ft-lib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbelValdez/ft-lib/issues"
+  },
+  "homepage": "https://github.com/AbelValdez/ft-lib#readme"
+}
